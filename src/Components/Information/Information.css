@@ -1,0 +1,47 @@
+#info {
+  width: 25%;
+}
+
+#info img {
+  border-radius: 50%;
+  width: 278px;
+  height: 278px;
+}
+
+#info h1 .username {
+  color: #666;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 300;
+}
+
+#info h1 .name {
+  font-size: 26px;
+  line-height: 1.25;
+}
+
+#info h1 {
+  margin: 10px 0;
+}
+
+#info .bio {
+  line-height: 1.5;
+}
+
+/* #info div {
+  margin: 10px 0;
+} */
+
+#info button {
+  width: 100%;
+  font-weight: 600;
+  font-size: 14px;
+  margin: 15px 0;
+  padding: 7px 0;
+  cursor: pointer;
+  background: #fafbfc;
+  border-radius: 6px;
+  border: 1px silver solid;
+}
+
+/*# sourceMappingURL=Information.css.map */

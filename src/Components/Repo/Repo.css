@@ -1,0 +1,30 @@
+.repo-container {
+  margin: 50px 30px 50px 50px;
+  padding-top: 20px;
+  border-top: 1px #00000033 solid;
+}
+
+.repo-container .repo-meta {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #586069;
+}
+
+.repo-container .repo-description {
+  color: #586069;
+}
+
+.repo-container .repo-meta div {
+  display: inline-block;
+  margin: 13px;
+  margin-left: 0;
+}
+
+.repo-container h3 a {
+  color: #0366d6;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=Repo.css.map */
